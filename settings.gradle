@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Chaplet Of The Sacred Heart Of Jesus"
